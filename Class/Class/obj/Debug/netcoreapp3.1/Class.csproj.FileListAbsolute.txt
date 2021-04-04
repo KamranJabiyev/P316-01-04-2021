@@ -1,0 +1,11 @@
+E:\P316\C#\Class\Class\bin\Debug\netcoreapp3.1\Class.exe
+E:\P316\C#\Class\Class\bin\Debug\netcoreapp3.1\Class.deps.json
+E:\P316\C#\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.json
+E:\P316\C#\Class\Class\bin\Debug\netcoreapp3.1\Class.runtimeconfig.dev.json
+E:\P316\C#\Class\Class\bin\Debug\netcoreapp3.1\Class.dll
+E:\P316\C#\Class\Class\bin\Debug\netcoreapp3.1\Class.pdb
+E:\P316\C#\Class\Class\obj\Debug\netcoreapp3.1\Class.csprojAssemblyReference.cache
+E:\P316\C#\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfoInputs.cache
+E:\P316\C#\Class\Class\obj\Debug\netcoreapp3.1\Class.AssemblyInfo.cs
+E:\P316\C#\Class\Class\obj\Debug\netcoreapp3.1\Class.dll
+E:\P316\C#\Class\Class\obj\Debug\netcoreapp3.1\Class.pdb
